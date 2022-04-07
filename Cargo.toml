@@ -1,4 +1,6 @@
 [workspace]
 members = [
-	"rgb2gray"
+	"gst-opencv",
+	"rgb2gray",
+	"videofilter",
 ]
